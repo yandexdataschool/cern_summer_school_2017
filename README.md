@@ -1,4 +1,5 @@
-# Materials for CERN openlab Summer Student lectures "Machine Learning - Parts 3 & 4"
+# Machine Learning - Parts 3 & 4
+Materials for CERN openlab Summer Student lectures "Machine Learning - Parts 3 & 4"
 
 [![Join the chat at https://gitter.im/yandexdataschool/cern_summer_school_2017](https://badges.gitter.im/yandexdataschool/mlhep2017.svg)](https://gitter.im/yandexdataschool/cern_summer_school_2017?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
